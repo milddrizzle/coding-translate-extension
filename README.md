@@ -25,10 +25,10 @@
 * `commentTranslate.hover.content`: 开启/关闭翻译悬停内容
 * `commentTranslate.multilineMerge`: 合并多行注释
 * `commentTranslate.targetLanguage`: 翻译目标语言，没有设置的情况下使用vscode本地语言。（可以通过状态快速设置）
-* `commentTranslate.source`: 翻译服务源配置。建议通过命令完成设置。 支持插件扩展翻译服务源。 [example](https://github.com/intellism/deepl-translate)
+* `commentTranslate.source`: 翻译服务源配置。建议通过命令完成设置。 支持插件扩展翻译服务源。
 * `commentTranslate.maxTranslationLength`， 最长翻译长度配置。规避过长字符翻译引起收费过多问题
-* `commentTranslate.googleTranslate.mirror`，解决国内服务不可访问问题. [文档](https://hcfy.app/blog/2022/09/28/ggg#%E6%96%B9%E6%A1%88-c%E4%BD%BF%E7%94%A8%E9%95%9C%E5%83%8F%E5%9C%B0%E5%9D%80%E6%9C%80%E7%AE%80%E5%8D%95)
+* `commentTranslate.googleTranslate.mirror`，解决国内服务不可访问问题.
 
 ## 翻译源
-* 支持外部“翻译源”扩展。目前外部插件已支持 [ChatGPT](https://marketplace.visualstudio.com/items?itemName=kitiho.chatgpt-comment-translate) & [DeepL](https://marketplace.visualstudio.com/items?itemName=intellsmi.deepl-translate) & [tencent cloud](https://marketplace.visualstudio.com/items?itemName=Kaiqun.tencent-cloud-translate) 翻译源. 
-* 已内置Ali翻译源。 可以通过 [开通阿里云机器翻译](https://www.aliyun.com/product/ai/alimt) 生成 accessKeyId & accessKeySecret ,并配置到插件中。切换对应翻译源，获得更稳定的翻译服务
+* 支持外部“翻译源”扩展。目前外部插件已支持 [ChatGPT] & [DeepL] & [tencent cloud] 翻译源. 
+* 已内置Ali翻译源。 可以通过 [开通阿里云机器翻译] 生成 accessKeyId & accessKeySecret ,并配置到插件中。切换对应翻译源，获得更稳定的翻译服务
