@@ -1,4 +1,4 @@
-# Translate Comment Extension
+# Coding Translate Extension
 
 ## 简介
 
