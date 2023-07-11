@@ -1,4 +1,4 @@
-# VSCode Comment Translate
+# Translate Comment Extension
 
 ## Introduction
 [【中文文档】](../README.md)
