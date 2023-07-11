@@ -1,6 +1,4 @@
-# VSCode 注释翻译
-
-[![Licence](https://img.shields.io/github/license/intellism/vscode-comment-translate.svg)](https://github.com/intellism/vscode-comment-translate)
+# VSCode Comment Translate Extension
 
 ## 简介
 
