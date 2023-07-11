@@ -1,21 +1,21 @@
 {
-    "name": "comment-translate",
-    "displayName": "%commentTranslate.displayName%",
-    "description": "%commentTranslate.description%",
+    "name": "coding-translate",
+    "displayName": "%codingTranslate.displayName%",
+    "description": "%codingTranslate.description%",
     "version": "2.3.0",
-    "publisher": "intellsmi",
+    "publisher": "",
     "author": {
-        "name": "Zheng MaoWei",
-        "email": "intellsmi@gmail.com"
+        "name": "Ramos Lee",
+        "email": "ramoslila817@gmail.com"
     },
     "license": "SEE LICENSE IN LICENSE",
-    "homepage": "https://github.com/intellism/vscode-comment-translate/blob/master/README.md",
+    "homepage": "https://github.com/milddrizzle/coding-translate-extension/blob/master/README.md",
     "bugs": {
-        "url": "https://github.com/intellism/vscode-comment-translate/issues"
+        "url": "https://github.com/milddrizzle/coding-translate-extension/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/intellism/vscode-comment-translate.git"
+        "url": "https://github.com/milddrizzle/coding-translate-extension.git"
     },
     "engines": {
         "vscode": "^1.52.0"
