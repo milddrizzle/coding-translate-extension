@@ -4,7 +4,7 @@
 [【中文文档】](../README.md)
 
 Many excellent projects have a lot of annotations, and users can quickly understand the code intent. However, if the user is not familiar with the annotated language, it will bring difficulties in understanding. This plugin uses the Google Translate API to translate comments for the VSCode programming language.
-## v1.5.0 update
+## Update
 * Increase baidu, bing translation sources. Too many translations with the same ip google will restrict access, you can temporarily switch to other translation sources
 * Increase translation target language options [Google Language support](https://cloud.google.com/translate/docs/languages)
 * "Translation replacement", select the target language for translation, and add shortcut keys control + shift + t
